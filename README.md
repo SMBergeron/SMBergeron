@@ -1,4 +1,11 @@
-<!--- - 👋 Hi, I’m @SMBergeron
+👋 Bonjour, je suis Sara-Maude Bergeron (elle), de l'Université de Montréal !
+
+Compte édité par Sara-Maude Bergeron pour le cours SCI6201 de l'EBSI.
+  
+
+
+
+<!--- - Hi, I’m @SMBergeron
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python & JavaScript
 - 💞️ I’m looking to collaborate on ...
