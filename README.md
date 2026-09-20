@@ -1,6 +1,4 @@
-👋 Bonjour, je suis Sara-Maude Bergeron (elle), de l'Université de Montréal !
-
-Compte édité pour le cours SCI6201 de l'EBSI.
+👋 Bonjour, je suis Sara-Maude Bergeron (elle), bibliothécaire de formation et chercheuse pour l'Université de Montréal !
   
 
 
