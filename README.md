@@ -1,4 +1,4 @@
-👋 Bonjour, je suis Sara-Maude Bergeron (elle), bibliothécaire de formation et chercheuse à l'Université de Montréal !
+👋 Bonjour, je suis Sara-Maude Bergeron (elle), bibliothécaire de formation et auxiliaire de recherche à l'Université de Montréal !
   
 
 
